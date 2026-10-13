@@ -44,7 +44,6 @@ const int MAX_STUDENTS = 100;
 // Array of Student objects
 Student database[MAX_STUDENTS];
 
-Dr. Anjali Ghongade
 
 // Variable to keep track of the number of students
 int currentCount = 0;
