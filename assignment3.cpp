@@ -37,9 +37,6 @@ cout << "Access Denied: You are not authorized to view this record.\n";
 int main()
 {
 
-Dr. Anjali Ghongade
-
-Page 2
 // Using a standard fixed-size array instead of vector
 const int MAX_EMPLOYEES = 2;
 Employee staffList[MAX_EMPLOYEES];
